@@ -1,0 +1,141 @@
+header{
+  background: rgb(23,101,125);
+}
+
+nav{
+width: 100%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+nav a {
+  display: block;
+  background: rgb(200,173,127);
+  padding : 1em;
+}
+section {
+  border-bottom: 2px solid #000
+  padding:2em;
+  min-height: 60vh;
+  box-shadow: 2px 6px 10px 1px rgba(0,0,0,0.49);
+}
+#section01 {
+  background: url('https://d3e1m60ptf1oym.cloudfront.net/dd13ff36-2dc8-4042-98d8-171d72418c59/G1273_1_wqxga.jpg') no-repeat top center;
+  background-size: cover;
+  background-attachment:fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#section01 h1{
+  color:rgb(255,255,255)
+}
+#section01 h1{font-size:5em; }
+#section02 {
+  background-color: rgb(225,206,154);
+  background-size: cover;
+  background-attachment: scroll;
+
+  display: grid ;
+  justify-content: center;
+  align-items: center;}
+#section02
+  h1{color:rgb(0,0,0)}
+ h2{color:rgb(0,0,0)}
+#section02 h1{font-size:6em; }
+ #section02
+p{color:rgb(0,0,0)}
+#section02
+h1{margin: 100px}
+
+p{margin: 100px}
+  #section03 {
+    background:url("https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg");
+    background-size: cover;
+    background-attachment:scroll;
+
+    display:  inline-flex;
+    justify-content: center;
+    align-items: center;}
+
+    #section03 h1{
+      color:rgb(255,255,255)
+    }
+    p{color:rgb(255,255,255)}
+    #section03
+    h1{margin: 100px}
+    h2{margin: 100px}
+    p{margin: 100px}
+
+    #section04 {
+
+      background-color: rgb(23,101,125);
+      background-size: contain;
+      background-attachment: fixed;
+
+      display: flex;
+      justify-content:  space-between ;
+      align-items: center;}
+      #section04
+      h1{
+        color:rgb(255,255,255)
+      }
+      p{color:rgb(255,255,255)}
+
+      #section04
+      h1{margin: 100px}
+      h2{margin: 100px}
+      p{margin: 100px}
+
+      #section05{
+      background:url("https://pierredestribats.com/wp-content/uploads/2019/04/EDS5290.jpg");
+        background-size: cover;
+        background-attachment: scroll;
+
+        display:  flex;
+        justify-content: space-between;
+        align-items: center;}
+        #section05
+        h1{color:rgb(255,255,255)}
+  p{color:rgb(255,255,255)}
+
+  #section05
+  h1{margin: 100px}
+  h2{margin: 100px}
+  p{margin: 100px}
+
+        #section06{
+          background-color: rgb(225,206,154);
+          background-size: cover;
+          background-attachment: fixed;
+          display:  flex;
+          justify-content: space-between;
+          align-items: center;}
+          #section06
+          h1{color:rgb(0,0,0)}
+          #section06
+         p{color:rgb(0,0,0)}
+         #section06
+         h1{margin: 100px}
+         h2{margin: 100px}
+         p{margin: 100px}
+
+        #section07 {
+          background:url('https://d3e1m60ptf1oym.cloudfront.net/dd13ff36-2dc8-4042-98d8-171d72418c59/G1273_1_wqxga.jpg') ;
+          background-size: cover;
+          background-attachment: fixed;
+          display:  flex;
+          justify-content:center;
+          align-items: center;}
+
+        #section07
+        h2{color:rgb(255,255,255)}
+
+        p{color:rgb(255,255,255)}
+  #section07
+  h1{margin: 100px}
+  h2{margin: 2px}

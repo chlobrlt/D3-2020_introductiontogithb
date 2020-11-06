@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
+
+body{
+  font-family:'Alegreya Sans', sans-serif;
+
+
+}
+#section01 h1{font-size: }
+h1{
+  font-family: 'Abril Fatface', sans-serif;
+  font-size: 4em;
+  margin-top: 0.5em;
+  margin-bottom:1em;
+  }
+
+h2{
+  font-family: 'Alegreya Sans',sans-serif ;
+font-size: 3em;
+margin-top: 0.5em;
+margin-bottom:1.5em;
+}
+p {
+  margin-bottom:3em;
+}
