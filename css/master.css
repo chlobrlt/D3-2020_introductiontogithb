@@ -56,7 +56,7 @@ p{margin: 100px}
   #section03 {
     background:url("https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg");
     background-size: cover;
-    background-attachment:scroll;
+    background-attachment: fixed;
 
     display:  inline-flex;
     justify-content: center;
@@ -94,7 +94,7 @@ p{margin: 100px}
       #section05{
       background:url("https://pierredestribats.com/wp-content/uploads/2019/04/EDS5290.jpg");
         background-size: cover;
-        background-attachment: scroll;
+        background-attachment: fixed;
 
         display:  flex;
         justify-content: space-between;
